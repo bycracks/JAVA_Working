@@ -112,7 +112,7 @@ public class Kyonggi_Company {
 					}
 					
 		} else if (teamNum == -2) {  // 매니저 이름 입력
-			for (int i=0; i<6; i++)
+			;
 			
 		} else {
 			for (int i=0; i<teams.get(teamNum).members.size(); i++) {
